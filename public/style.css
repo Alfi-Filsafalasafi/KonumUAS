@@ -1,0 +1,18 @@
+.btn-utama{
+    background-color: #07617D;
+    color: white;
+}
+.btn-utama:hover{
+    background-color: #034053;
+    color: white;
+}
+.utama{
+    color:#07617D;
+}
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.background{
+    background-image: url('http://localhost/KOnumUAS/public/img/Vect.png');
+    height: 690px;
+}
